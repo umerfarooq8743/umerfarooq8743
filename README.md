@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umerfarooq232&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq232&layout=compact&theme=default&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umerfarooq8743&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfarooq8743&layout=compact&theme=default&hide_border=true" width="38%" />
 </p>
 
 ---
@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umerfarooq232&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=umerfarooq8743&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
