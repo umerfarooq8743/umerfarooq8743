@@ -17,21 +17,23 @@
 - 🔭 Currently working at **i-Splendid** on **ShipKardo** (Order Management System) & **Splendid Accounts**
 - 🛠 3+ years of experience in full-stack development with Angular, Node.js & MongoDB
 - ⚡ Built integrations with **BlueEx, TCS, Leopards, PostEx, Shopify, WordPress, Monty Mobile SMS**
-- 🏆 **Employee of the Month** — April 2024
+- 🏆 **Employee of the Month** — April 2024  
 - 📍 Karachi, Pakistan
 
 ---
 
 ### 🛠 Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -44,16 +46,42 @@
 
 ---
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umerfarooq8743&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph (This Year Feel)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerfarooq8743&theme=github-light&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Key Projects
 
 | Project | Role | Description |
-|---|---|---|
+|--------|------|------------|
 | **ShipKardo** | Full Stack | Multi-courier OMS with Shopify/WordPress sync |
 | **Splendid Accounts** | Frontend | Inventory & accounting platform (Angular) |
 | **Nurse Nova** | Backend | Healthcare backend services (Node.js/TypeScript) |
 
 ---
 
+### 👀 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umerfarooq8743&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 💡 Quote
+
+<p align="center">
+  <i>"Code. Build. Solve. Repeat."</i>
 </p>
